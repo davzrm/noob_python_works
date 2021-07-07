@@ -6,7 +6,6 @@ import numpy as np
 import tkinter as tk
 import time
 import threading
-import concurrent.futures as cf
 from enum import Enum
 from math import floor
 
